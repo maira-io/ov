@@ -1,4 +1,4 @@
-module github.com/noborus/ov
+module github.com/maira-io/ov
 
 go 1.16
 
